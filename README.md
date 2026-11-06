@@ -1,62 +1,61 @@
 
-# Hi, I'm Mubaris T. 👋
+# 🛠️ Technical Skills & Technologies
 
-### Python Full Stack Developer | Delemon Technology
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,java,dart,html,css" />
+</p>
 
-I am a Python Full Stack Developer passionate about building
-scalable web applications, REST APIs, and business solutions.
+### 🎨 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,flutter" />
+</p>
 
-- 💼 Currently working at **Delemon Technology**
-- 🐍 Backend: Python, Django, Django REST Framework
-- 🎨 Frontend: HTML, CSS, JavaScript, React, Next.js
-- 🗄️ Database: SQL, SQLite
-- ⚙️ Tools: Git, GitHub, Linux, Nginx, Gunicorn
-- 🚀 Interested in scalable applications, API integrations,
-  automation, and deployment.
+### ⚙️ Backend Development & API
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-red?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-Development-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-Integration-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/SimpleJWT-Authentication-green?style=for-the-badge" />
+</p>
 
----
+### 🧠 AI, Libraries & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-NLP-154F3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNN-Deep%20Neural%20Networks-673AB7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
 
-## 💻 Tech Stack
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🚀 DevOps, Deployment & Developer Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,nginx,postman,vscode,pycharm,androidstudio" />
+  <img src="https://img.shields.io/badge/Gunicorn-Deployment-499848?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PM2-Process%20Manager-2B037A?style=for-the-badge" />
+</p>
 
----
+### 📈 SEO, Marketing & Integrations
+<p align="left">
+  <img src="https://img.shields.io/badge/Technical%20SEO-Optimization-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/On--Page%20SEO-Optimization-0F9D58?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SEO-Issue%20Fixing-34A853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Brevo-Email%20Marketing-0B996E?style=for-the-badge&logo=brevo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lead%20Capture-Integration-FF9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Email%20Workflows-Automation-673AB7?style=for-the-badge" />
+</p>
 
-## 🚀 Featured Work
-
-### 1. X-OPP CRM – HR Module
-- Multi-company HR management system
-- Employee management and attendance workflows
-- REST API integrations
-
-### 2. Real Estate Web Applications
-- Property listing platforms
-- Django REST API integration
-- SEO and website performance improvements
-
-### 3. Hotel Billing System
-- Hotel billing and management functionality
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mubarisali&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mubarisali&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mubaris-ali-10b625400/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/mubarisali)
+### 🏗️ Software Architecture & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/Multi--Tenant%20Architecture-Scalable%20Systems-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RBAC-Role%20Based%20Access%20Control-6A1B9A?style=for-the-badge" />
+</p>
